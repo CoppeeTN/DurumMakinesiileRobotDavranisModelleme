@@ -12,7 +12,7 @@ Bilgisayarınızda
 - Rviz
 Araçlarının yüklü olduğundan emin olmalısınız.
 
-!!!Kod içerisinde dosya yolu ile çalışan kodlar, özelleştirilmiş isimlere göre belirli çağırma komutları bulundurmaktadır.!!!
+!!! Kod içerisinde dosya yolu ile çalışan kodlar, özelleştirilmiş isimlere göre belirli çağırma komutları bulundurmaktadır.!!!
 !!!
    Örnek çalışan bir proje için yapmanız gereken şeyler
    - Turtlebot3_Gazebo paketi altında "Turtlebot3_World.world" isimli dosyanın ismini "proje_map_orta.world" şeklinde değiştirmek.
