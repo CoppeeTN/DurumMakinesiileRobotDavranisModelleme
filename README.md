@@ -1,2 +1,20 @@
 # DurumMakinesiileRobotDavranisModelleme
+
 Ros-Noetic, Python3 projesi
+
+Bilgisayarınızda
+- ROS Noetic
+- Python3
+- Turtlebot3_Navigation paketi
+- Turtlebot3_Slam paketi
+- Explore_Lite paketi
+- Gazebo
+- Rviz
+Araçlarının yüklü olduğundan emin olmalısınız.
+
+!!!Kod içerisinde dosya yolu ile çalışan kodlar, özelleştirilmiş isimlere göre belirli çağırma komutları bulundurmaktadır.!!!
+!!!
+   Örnek çalışan bir proje için yapmanız gereken şeyler
+   - Turtlebot3_Gazebo paketi altında "Turtlebot3_World.world" isimli dosyanın ismini "proje_map_orta.world" şeklinde değiştirmek.
+   - Projenin input kısmına "Harita Boyutu[kucuk,orta,buyuk]" kısmına "orta" girmeniz.
+!!!
